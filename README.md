@@ -4,7 +4,7 @@
 
 
 
-# Capstone Project - The Battle of Neighborhoods
+# Capstone Project - Neighborhood Watch
 
 [TOC]
 
@@ -51,7 +51,7 @@ There are 100's, maybe even 1000's, of travel sites on the Internet, including [
 Imagine the following scenario:
 
 1. You like to plan ahead and always review your options and make your choices about where you will visit and eat up front before you travel. 
-2. You are flying to Chicogo for a Data Science Conference.
+2. You are flying to Chicago for a Data Science Conference.
 3. You arrive in Chicago the day the conference starts but you've managed to convince your boss to delay your return by a few days giving you time to explore.
 4. But you know no one in Chicago to show you around to all the top sites and to bring you to the best restaurants.
 5. Also the last time you went to a conference you were mugged and had you passport. money and credit cards stolen so you're now nervous of going somewhere without first researching the venue and the surrounding area.
